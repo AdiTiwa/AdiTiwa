@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AdiTiwa
-- 👀 I’m interested in Gamedeving and making websites with React
+- 👀 I’m interested in Gamedeving
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on nothing, for the moment.
 

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdiTiwa
-- 👀 I’m interested in Gamedeving
-- 🌱 I’m currently learning React
+- 👀 I’m interested in Game Development
+- 🌱 I’m currently developing games with Godot Game Engine
 - 💞️ I’m looking to collaborate on nothing, for the moment.
 
 <!---

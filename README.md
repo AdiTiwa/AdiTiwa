@@ -1,7 +1,7 @@
 # Hi! My name is Aditya Tiwari
 hobbyist programmer and starry-eyed start up developer
 
-### Resume: RESUME.md in the AdiTiwa repository.
+### Resume: [RESUME.md](https://github.com/AdiTiwa/AdiTiwa/blob/main/RESUME.md) in the AdiTiwa repository.
 
 My real passion lies in research and using the tech we make and trying to **support** and **help** people around me in my **community** and otherwise. I believe as developers our inherent purpose is to make the world we see more accessable to people who don't see the world the same way we do with meaningful content (AI, Data, etc.), UX design, and the communication necessary to convey this important information
 

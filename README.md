@@ -1,8 +1,8 @@
 computing + math student
 
-interdisciplinary interests: philosophy, sociology, and psychology
+interdisciplinary interests: philosophy, sociology, and physics
 
-working on: research
+working on: research on quantum algorithms, heuristic-based quantum circuit router and genetic-based ansatze preparation for variational quantum eigensolvers
 
 previous work:
 

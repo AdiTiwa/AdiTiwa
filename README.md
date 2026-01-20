@@ -2,7 +2,7 @@ computing + math student
 
 interdisciplinary interests: philosophy, sociology, and physics
 
-working on: research on quantum algorithms, heuristic-based quantum circuit router and genetic-based ansatze preparation for variational quantum eigensolvers
+working on: research on quantum algorithms, specifically the complexity space $\operatorname{NP} \cap \operatorname{Co-NP}$ through quantum speedups for the minimum witness problem
 
 previous work:
 

@@ -2,7 +2,7 @@ computing + math student
 
 interdisciplinary interests: philosophy, sociology, and physics
 
-working on: research on quantum algorithms, specifically the complexity space $\operatorname{NP} \cap \operatorname{Co-NP}$ through quantum speedups for the minimum witness problem
+working on: research on quantum algorithms, specifically the complexity space $\text{NP} \cap \text{Co-NP}$ through quantum speedups for the minimum witness problem
 
 previous work:
 
